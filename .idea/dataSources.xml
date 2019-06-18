@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ms3,db" uuid="178a7400-cece-4329-a56c-41380c7e7adb">
+    <data-source source="LOCAL" name="ms3db.db" uuid="2ab1ccb1-5f3a-42f8-9881-7bd769cfbfea">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\maktas\Desktop\SpringApps\ms3challenge\ms3,db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/ms3db.db</jdbc-url>
       <driver-properties>
         <property name="enable_load_extension" value="true" />
       </driver-properties>
